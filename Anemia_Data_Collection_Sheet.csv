@@ -1,0 +1,711 @@
+IMAGE_ID,HB_LEVEL,Severity,Age(Months),GENDER,REMARK,HOSPITAL,CITY/TOWN,MUNICIPALITY/DISTRICT,REGION
+Image_001,9.8,Moderate,6,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_002,9.9,Moderate,24,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_003,11.1,Non-Anemic,24,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_004,12.5,Non-Anemic,12,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_005,9.9,Moderate,24,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_006,12.5,Non-Anemic,24,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_007,9.9,Moderate,48,Female,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_008,12.5,Non-Anemic,48,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_009,9.9,Moderate,36,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_010,9.9,Moderate,36,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_011,12.4,Non-Anemic,60,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_012,12.5,Non-Anemic,36,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_013,9.9,Moderate,24,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_014,12.4,Non-Anemic,48,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_015,9.9,Moderate,60,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_016,9.9,Moderate,24,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_017,9.9,Moderate,24,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_018,10.93,Mild,48,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_019,10.9,Mild,48,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_020,11.3,Non-Anemic,48,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_021,10.9,Mild,36,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_022,10.74,Mild,48,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_023,12.9,Non-Anemic,60,Female,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_024,12.9,Non-Anemic,60,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_025,10.2,Mild,24,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_026,10.2,Mild,48,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_027,12.9,Non-Anemic,48,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_028,12.9,Non-Anemic,60,Male,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_029,10.2,Mild,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_030,7.9,Moderate,60,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_031,6.9,Severe,48,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_032,8.1,Moderate,12,Female,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_033,8.1,Moderate,12,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_034,8.2,Moderate,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_035,8.2,Moderate,12,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_036,8.2,Moderate,60,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_037,8.2,Moderate,48,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_038,8.2,Moderate,12,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_039,8.2,Moderate,36,Male,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_040,8.3,Moderate,12,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_041,8.3,Moderate,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_042,8.3,Moderate,24,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_043,8.3,Moderate,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_044,8.3,Moderate,24,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_045,8.3,Moderate,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_046,8.3,Moderate,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_047,8.3,Moderate,9,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_048,8.3,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_049,8.3,Moderate,24,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_050,8.4,Moderate,24,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_051,8.5,Moderate,48,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_052,8.5,Moderate,24,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_053,8.5,Moderate,12,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_054,8.5,Moderate,12,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_055,8.5,Moderate,24,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_056,8.6,Moderate,24,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_057,8.6,Moderate,24,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_058,11.9,Non-Anemic,36,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_059,11.9,Non-Anemic,12,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_060,11.9,Non-Anemic,36,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_061,11.9,Non-Anemic,24,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_062,12.4,Non-Anemic,24,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_063,12.4,Non-Anemic,60,Female,Non-anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_064,12.7,Non-Anemic,12,Male,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_065,12.7,Non-Anemic,12,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_066,10.1,Mild,48,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_067,12.4,Non-Anemic,12,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_068,7.1,Moderate,36,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_069,8,Moderate,24,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_070,11.9,Non-Anemic,24,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_071,12.4,Non-Anemic,48,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_072,11.2,Non-Anemic,48,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_073,14.2,Non-Anemic,60,Male,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_074,9.7,Moderate,60,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_075,11.1,Non-Anemic,60,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_076,9.7,Moderate,24,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_077,9.7,Moderate,48,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_078,9.7,Moderate,12,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_079,9.7,Moderate,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_080,10.1,Mild,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_081,11,Non-Anemic,36,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_082,10.1,Mild,48,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_083,10.1,Mild,36,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_084,10.3,Mild,48,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_085,10.1,Mild,12,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_086,10.9,Mild,24,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_087,10.7,Mild,60,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_088,13,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_089,10.7,Mild,24,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_090,13,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_091,10.7,Mild,24,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_092,10.7,Mild,60,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_093,10.2,Mild,36,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_094,10.2,Mild,60,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_095,12.9,Non-Anemic,36,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_096,12.9,Non-Anemic,12,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_097,12.9,Non-Anemic,24,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_098,12.9,Non-Anemic,12,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_099,10.2,Mild,24,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_100,12.9,Non-Anemic,36,Male,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_101,10.2,Mild,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_102,10.2,Mild,12,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_103,12.9,Non-Anemic,60,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_104,10.2,Mild,36,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_105,10.3,Mild,36,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_106,12.9,Non-Anemic,60,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_107,12.9,Non-Anemic,36,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_108,12.9,Non-Anemic,36,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_109,10.3,Mild,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_110,10.3,Mild,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_111,10.3,Mild,36,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_112,10.3,Mild,24,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_113,12.9,Non-Anemic,24,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_114,12.9,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_115,10.3,Mild,48,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_116,7,Moderate,12,Male,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_117,12.4,Non-Anemic,48,Female,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_118,7.09,Moderate,24,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_119,9.6,Moderate,24,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_120,7.3,Moderate,12,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_121,9.6,Moderate,36,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_122,9.6,Moderate,12,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_123,8.1,Moderate,24,Male,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_124,12.4,Non-Anemic,48,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_125,8.4,Moderate,12,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_126,8.5,Moderate,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_127,8.9,Moderate,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_128,8.9,Moderate,24,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_129,12,Non-Anemic,60,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_130,12,Non-Anemic,48,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_131,12,Non-Anemic,48,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_132,9.9,Moderate,60,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_133,12,Non-Anemic,12,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_134,12,Non-Anemic,12,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_135,12.5,Non-Anemic,36,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_136,9.9,Moderate,48,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_137,12,Non-Anemic,24,Female,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_138,8.9,Moderate,48,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_139,9.9,Moderate,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_140,8.9,Moderate,24,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_141,8.95,Moderate,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_142,12,Non-Anemic,24,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_143,12.5,Non-Anemic,60,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_144,9,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_145,12.5,Non-Anemic,60,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_146,9.9,Moderate,12,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_147,12.1,Non-Anemic,60,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_148,9.7,Moderate,48,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_149,9.9,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_150,9.98,Moderate,48,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_151,12.7,Non-Anemic,24,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_152,10,Mild,60,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_153,10.1,Mild,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_154,10,Mild,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_155,10.1,Mild,60,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_156,12.6,Non-Anemic,24,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_157,12.8,Non-Anemic,48,Male,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_158,10,Mild,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_159,10.1,Mild,12,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_160,12.6,Non-Anemic,60,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_161,10.2,Mild,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_162,10,Mild,36,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_163,10.2,Mild,12,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_164,10,Mild,60,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_165,12.8,Non-Anemic,24,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_166,10,Mild,24,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_167,10.2,Mild,12,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_168,5,Severe,24,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_169,11.1,Non-Anemic,12,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_170,5,Severe,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_171,7.1,Moderate,36,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_172,7.2,Moderate,48,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_173,11.4,Non-Anemic,12,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_174,11.46,Non-Anemic,48,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_175,11.05,Non-Anemic,48,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_176,13.1,Non-Anemic,36,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_177,10.4,Mild,48,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_178,11.1,Non-Anemic,60,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_179,3.4,Severe,24,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_180,10.4,Mild,24,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_181,4,Severe,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_182,10.4,Mild,36,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_183,4.2,Severe,24,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_184,13.1,Non-Anemic,36,Male,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_185,13.1,Non-Anemic,11,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_186,4.6,Severe,36,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_187,10.4,Mild,12,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_188,11.1,Non-Anemic,7,Female,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_189,13.2,Non-Anemic,12,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_190,4.8,Severe,24,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_191,13.2,Non-Anemic,60,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_192,13.2,Non-Anemic,36,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_193,10.4,Mild,48,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_194,10.74,Mild,48,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_195,13.1,Non-Anemic,24,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_196,10.8,Mild,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_197,13.1,Non-Anemic,36,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_198,10.4,Mild,48,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_199,10.4,Mild,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_200,10.8,Mild,12,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_201,10.4,Mild,48,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_202,10.9,Mild,48,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_203,10.8,Mild,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_204,13.1,Non-Anemic,36,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_205,13.2,Non-Anemic,12,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_206,10.9,Mild,24,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_207,13.2,Non-Anemic,24,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_208,13.2,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_209,10.9,Mild,36,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_210,11,Non-Anemic,36,Female,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_211,13.2,Non-Anemic,60,Male,Non-anemic,Holy Family Hospital,Berekum,Berekum Municipality,Bono
+Image_212,11,Non-Anemic,60,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_213,13.2,Non-Anemic,12,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_214,10.4,Mild,60,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_215,11,Non-Anemic,36,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_216,10.4,Mild,60,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_217,11,Non-Anemic,48,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_218,13.2,Non-Anemic,36,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_219,10.4,Mild,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_220,10.41,Mild,24,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_221,10.5,Mild,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_222,13.2,Non-Anemic,36,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_223,10.5,Mild,48,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_224,13.2,Non-Anemic,48,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_225,13.2,Non-Anemic,36,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_226,10.5,Mild,48,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_227,4.2,Severe,12,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_228,6.1,Severe,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_229,6.5,Severe,48,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_230,4.4,Severe,24,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_231,6.6,Severe,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_232,6.9,Severe,24,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_233,7,Moderate,36,Female,Anemic,Holy Family Hospital,Berekum,Berekum Municipality,Bono
+Image_234,5.1,Severe,48,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_235,7.9,Moderate,12,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_236,5.4,Severe,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_237,8,Moderate,12,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_238,5.4,Severe,24,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_239,8.4,Moderate,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_240,5.5,Severe,24,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_241,8.4,Moderate,24,Female,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_242,5.9,Severe,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_243,8.4,Moderate,48,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_244,6,Severe,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_245,8.6,Moderate,36,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_246,6.5,Severe,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_247,8.9,Moderate,24,Female,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_248,11.3,Non-Anemic,24,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_249,12,Non-Anemic,48,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_250,6.7,Severe,12,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_251,9.1,Moderate,24,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_252,9.1,Moderate,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_253,11.3,Non-Anemic,60,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_254,6.9,Severe,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_255,9.1,Moderate,48,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_256,6.9,Severe,24,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_257,7,Moderate,48,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_258,9.1,Moderate,6,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_259,10.1,Mild,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_260,7,Moderate,12,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_261,10.1,Mild,24,Female,Anemic,Holy Family Hospital,Berekum,Berekum Municipality,Bono
+Image_262,10.5,Mild,48,Female,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_263,11.3,Non-Anemic,36,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_264,7,Moderate,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_265,10.5,Mild,60,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_266,7,Moderate,24,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_267,10.52,Mild,48,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_268,7,Moderate,36,Female,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_269,7.1,Moderate,36,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_270,7.1,Moderate,36,Female,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_271,9,Moderate,36,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_272,9,Moderate,48,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_273,12.1,Non-Anemic,36,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_274,9.5,Moderate,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_275,10.54,Mild,24,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_276,12.02,Non-Anemic,48,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_277,5.2,Severe,36,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_278,7.1,Moderate,60,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_279,7.2,Moderate,60,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_280,11,Non-Anemic,24,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_281,11.1,Non-Anemic,36,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_282,11,Non-Anemic,48,Female,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_283,11.1,Non-Anemic,12,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_284,3.1,Severe,36,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_285,5.2,Severe,12,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_286,11.4,Non-Anemic,36,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_287,5.3,Severe,36,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_288,11,Non-Anemic,48,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_289,3.3,Severe,24,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_290,5.7,Severe,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_291,5.8,Severe,36,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_292,11,Non-Anemic,48,Female,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_293,3.1,Severe,36,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_294,5.9,Severe,12,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_295,6.8,Severe,60,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_296,7.1,Moderate,36,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_297,11.8,Non-Anemic,12,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_298,11.4,Non-Anemic,12,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_299,11.8,Non-Anemic,12,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_300,8,Moderate,24,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_301,8,Moderate,60,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_302,11.8,Non-Anemic,36,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_303,11.8,Non-Anemic,12,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_304,8,Moderate,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_305,11.9,Non-Anemic,12,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_306,8.1,Moderate,24,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_307,11.9,Non-Anemic,12,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_308,8,Moderate,24,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_309,8.1,Moderate,24,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_310,8.06,Moderate,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_311,11.9,Non-Anemic,36,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_312,11.9,Non-Anemic,60,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_313,11.9,Non-Anemic,48,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_314,9.9,Moderate,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_315,9.9,Moderate,48,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_316,6.1,Severe,24,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_317,11.16,Non-Anemic,12,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_318,6.8,Severe,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_319,11.2,Non-Anemic,12,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_320,8.6,Moderate,12,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_321,11.2,Non-Anemic,24,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_322,8.7,Moderate,60,Female,Anemic,Holy Family Hospital,Berekum,Berekum Municipality,Bono
+Image_323,11.2,Non-Anemic,48,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_324,8.7,Moderate,60,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_325,11.3,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_326,8.7,Moderate,60,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_327,8.7,Moderate,24,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_328,10.2,Mild,48,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_329,10.2,Mild,60,Female,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_330,10.5,Mild,60,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_331,10.5,Mild,60,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_332,10.6,Mild,10,Male,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_333,10.7,Mild,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_334,10.8,Mild,24,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_335,3.3,Severe,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_336,10.5,Mild,60,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_337,12.4,Non-Anemic,60,Female,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_338,10.5,Mild,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_339,12.1,Non-Anemic,12,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_340,12.5,Non-Anemic,48,Female,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_341,12.2,Non-Anemic,60,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_342,12.5,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_343,13.6,Non-Anemic,12,Female,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_344,12.3,Non-Anemic,12,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_345,13.3,Non-Anemic,48,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_346,12.3,Non-Anemic,24,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_347,13.3,Non-Anemic,60,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_348,12.3,Non-Anemic,24,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_349,13.3,Non-Anemic,48,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_350,9.2,Moderate,36,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_351,13.3,Non-Anemic,48,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_352,12.3,Non-Anemic,24,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_353,13.3,Non-Anemic,36,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_354,12.3,Non-Anemic,24,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_355,13.4,Non-Anemic,12,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_356,12.3,Non-Anemic,12,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_357,13.4,Non-Anemic,36,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_358,10.5,Mild,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_359,12.3,Non-Anemic,12,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_360,12.3,Non-Anemic,24,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_361,13.4,Non-Anemic,60,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_362,12.3,Non-Anemic,60,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_363,13.5,Non-Anemic,6,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_364,12.3,Non-Anemic,60,Male,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_365,13.6,Non-Anemic,36,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_366,12.5,Non-Anemic,48,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_367,13.5,Non-Anemic,60,Female,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_368,10.5,Mild,36,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_369,10.5,Mild,48,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_370,13.5,Non-Anemic,48,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_371,13.5,Non-Anemic,60,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_372,10.5,Mild,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_373,13.5,Non-Anemic,36,Female,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_374,13.5,Non-Anemic,48,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_375,13.5,Non-Anemic,24,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_376,13.5,Non-Anemic,60,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_377,10.5,Mild,12,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_378,13.5,Non-Anemic,36,Male,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_379,13.6,Non-Anemic,60,Female,Non-anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_380,13.6,Non-Anemic,36,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_381,13.6,Non-Anemic,24,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_382,13.6,Non-Anemic,48,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_383,7.2,Moderate,48,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_384,9,Moderate,60,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_385,9.6,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_386,9.6,Moderate,12,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_387,9.6,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_388,9.6,Moderate,48,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_389,9.6,Moderate,9,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_390,9.6,Moderate,24,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_391,10.1,Mild,24,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_392,10.1,Mild,24,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_393,10.1,Mild,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_394,12.8,Non-Anemic,24,Female,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_395,12.8,Non-Anemic,60,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_396,10.1,Mild,24,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_397,10.1,Mild,48,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_398,10.2,Mild,36,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_399,8.9,Moderate,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_400,8.9,Moderate,60,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_401,8.9,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_402,8.9,Moderate,12,Male,Anemic,Holy Family Hospital,Berekum,Berekum Municipality,Bono
+Image_403,10.2,Mild,24,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_404,12.8,Non-Anemic,60,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_405,10.3,Mild,24,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_406,10.3,Mild,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_407,10.3,Mild,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_408,10.3,Mild,24,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_409,11.7,Non-Anemic,48,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_410,11.7,Non-Anemic,36,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_411,8,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_412,8,Moderate,12,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_413,11.7,Non-Anemic,48,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_414,11.7,Non-Anemic,12,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_415,11.7,Non-Anemic,24,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_416,11.7,Non-Anemic,12,Female,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_417,11.7,Non-Anemic,36,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_418,11.7,Non-Anemic,12,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_419,11.72,Non-Anemic,48,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_420,11.8,Non-Anemic,12,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_421,11.8,Non-Anemic,36,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_422,11.8,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_423,11.8,Non-Anemic,36,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_424,11.8,Non-Anemic,24,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_425,8,Moderate,24,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_426,11.8,Non-Anemic,48,Male,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_427,9.3,Moderate,48,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_428,10.6,Mild,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_429,10.6,Mild,36,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_430,13.6,Non-Anemic,48,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_431,13.6,Non-Anemic,24,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_432,13.6,Non-Anemic,12,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_433,13.7,Non-Anemic,48,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_434,13.7,Non-Anemic,60,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_435,13.7,Non-Anemic,60,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_436,13.8,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_437,13.8,Non-Anemic,36,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_438,10.6,Mild,36,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_439,10.6,Mild,48,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_440,13.8,Non-Anemic,36,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_441,13.8,Non-Anemic,48,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_442,10.6,Mild,11,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_443,10.6,Mild,36,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_444,10.64,Mild,48,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_445,10.8,Mild,60,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_446,10.8,Mild,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_447,14.1,Non-Anemic,24,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_448,10.8,Mild,36,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_449,14.1,Non-Anemic,48,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_450,14.2,Non-Anemic,12,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_451,11.1,Non-Anemic,12,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_452,12.1,Non-Anemic,12,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_453,11.2,Non-Anemic,48,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_454,12.1,Non-Anemic,36,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_455,11.2,Non-Anemic,24,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_456,12.1,Non-Anemic,12,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_457,12.1,Non-Anemic,24,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_458,12.15,Non-Anemic,48,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_459,12.2,Non-Anemic,48,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_460,9.2,Moderate,12,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_461,9.2,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_462,12.5,Non-Anemic,48,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_463,12.5,Non-Anemic,48,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_464,12.5,Non-Anemic,48,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_465,12.5,Non-Anemic,36,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_466,12.6,Non-Anemic,36,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_467,12.6,Non-Anemic,60,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_468,12.7,Non-Anemic,24,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_469,12.6,Non-Anemic,24,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_470,12.6,Non-Anemic,48,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_471,10.1,Mild,24,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_472,12.7,Non-Anemic,24,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_473,10.1,Mild,24,Male,Anemic,Holy Family Hospital,Berekum,Berekum Municipality,Bono
+Image_474,12.7,Non-Anemic,60,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_475,12.8,Non-Anemic,60,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_476,4.6,Severe,12,Female,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_477,6.1,Severe,24,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_478,6.1,Severe,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_479,11.1,Non-Anemic,24,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_480,5,Severe,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_481,11.2,Non-Anemic,48,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_482,6.3,Severe,60,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_483,11.2,Non-Anemic,6,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_484,6.3,Severe,12,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_485,6.3,Severe,12,Male,Anemic,Holy Family Hospital,Berekum,Berekum Municipality,Bono
+Image_486,11.2,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_487,6.4,Severe,24,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_488,6.4,Severe,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_489,8.9,Moderate,12,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_490,8.9,Moderate,8,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_491,12,Non-Anemic,36,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_492,8.9,Moderate,36,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_493,12.1,Non-Anemic,24,Female,Non-anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_494,9,Moderate,60,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_495,9.1,Moderate,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_496,9.1,Moderate,48,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_497,9.1,Moderate,24,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_498,12.1,Non-Anemic,36,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_499,9.1,Moderate,12,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_500,9.1,Moderate,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_501,9.1,Moderate,48,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_502,10.1,Mild,24,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_503,10.2,Mild,12,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_504,10.2,Mild,12,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_505,10.3,Mild,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_506,13,Non-Anemic,48,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_507,13,Non-Anemic,60,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_508,13,Non-Anemic,24,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_509,10.3,Mild,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_510,9.5,Moderate,60,Female,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_511,9.6,Moderate,12,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_512,9.5,Moderate,24,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_513,9.6,Moderate,48,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_514,9.6,Moderate,36,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_515,9.6,Moderate,48,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_516,9.6,Moderate,12,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_517,12.3,Non-Anemic,12,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_518,9.6,Moderate,36,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_519,9.5,Moderate,36,Female,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_520,9.7,Moderate,12,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_521,9.5,Moderate,60,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_522,12.4,Non-Anemic,24,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_523,9.5,Moderate,24,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_524,9.7,Moderate,24,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_525,9.5,Moderate,12,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_526,9.7,Moderate,24,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_527,9.7,Moderate,24,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_528,9.7,Moderate,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_529,12.4,Non-Anemic,24,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_530,9.7,Moderate,24,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_531,12.3,Non-Anemic,48,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_532,9.5,Moderate,60,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_533,9.6,Moderate,12,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_534,9.5,Moderate,48,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_535,9.7,Moderate,60,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_536,9.5,Moderate,12,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_537,9.7,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_538,12.3,Non-Anemic,12,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_539,9.6,Moderate,24,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_540,10,Mild,36,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_541,10,Mild,36,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_542,10,Mild,48,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_543,12.6,Non-Anemic,48,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_544,10,Mild,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_545,10,Mild,12,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_546,10,Mild,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_547,10,Mild,24,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_548,10,Mild,60,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_549,12.6,Non-Anemic,12,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_550,12.6,Non-Anemic,12,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_551,12.6,Non-Anemic,24,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_552,10,Mild,36,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_553,12.6,Non-Anemic,60,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_554,10,Mild,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_555,10,Mild,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_556,10,Mild,36,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_557,10,Mild,12,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_558,12.6,Non-Anemic,36,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_559,12.6,Non-Anemic,36,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_560,10.01,Mild,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_561,12.6,Non-Anemic,36,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_562,10.05,Mild,48,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_563,10.06,Mild,36,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_564,10.1,Mild,24,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_565,10.1,Mild,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_566,12.8,Non-Anemic,12,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_567,10.2,Mild,12,Female,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_568,10.2,Mild,48,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_569,10.3,Mild,48,Female,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_570,12.1,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_571,12,Non-Anemic,36,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_572,9,Moderate,36,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_573,9,Moderate,48,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_574,9.1,Moderate,48,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_575,7.9,Moderate,36,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_576,11.6,Non-Anemic,60,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_577,8,Moderate,36,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_578,11.9,Non-Anemic,48,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_579,8.1,Moderate,36,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_580,8.9,Moderate,36,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_581,9,Moderate,36,Female,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_582,9.2,Moderate,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_583,10.2,Mild,48,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_584,10.2,Mild,12,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_585,13.9,Non-Anemic,60,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_586,9.6,Moderate,36,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_587,11.5,Non-Anemic,24,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_588,11.5,Non-Anemic,24,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_589,7.3,Moderate,36,Female,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_590,11.5,Non-Anemic,60,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_591,11.5,Non-Anemic,60,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_592,11.52,Non-Anemic,36,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_593,7.3,Moderate,48,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_594,7.4,Moderate,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_595,11.6,Non-Anemic,24,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_596,7.5,Moderate,60,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_597,7.5,Moderate,48,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_598,7.5,Moderate,36,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_599,7.5,Moderate,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_600,11.6,Non-Anemic,48,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_601,11.6,Non-Anemic,12,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_602,7.6,Moderate,36,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_603,7.7,Moderate,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_604,11.6,Non-Anemic,60,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_605,7.7,Moderate,48,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_606,7.7,Moderate,48,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_607,7.8,Moderate,60,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_608,7.8,Moderate,12,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_609,7.8,Moderate,12,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_610,7.8,Moderate,12,Female,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_611,7.8,Moderate,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_612,7.8,Moderate,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_613,7.8,Moderate,36,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_614,7.89,Moderate,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_615,7.9,Moderate,36,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_616,7.9,Moderate,24,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_617,7.9,Moderate,36,Male,Anemic,Manhyia District Hospital,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_618,7.9,Moderate,60,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_619,6.9,Severe,7,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_620,6.9,Severe,24,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_621,7.1,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_622,8.6,Moderate,36,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_623,8.6,Moderate,36,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_624,11.9,Non-Anemic,36,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_625,8.8,Moderate,12,Female,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_626,8.7,Moderate,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_627,8.7,Moderate,36,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_628,8.7,Moderate,24,Male,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_629,8.8,Moderate,12,Male,Anemic,SDA Hospital,Sunyani,Sunyani Municipality,Bono
+Image_630,8.8,Moderate,12,Female,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_631,9,Moderate,36,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_632,12.1,Non-Anemic,60,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_633,9.2,Moderate,12,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_634,9.2,Moderate,48,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_635,9.2,Moderate,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_636,9.2,Moderate,24,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_637,9.2,Moderate,24,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_638,9.2,Moderate,9,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_639,9.2,Moderate,24,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_640,8,Moderate,12,Male,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_641,8,Moderate,24,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_642,8.4,Moderate,12,Male,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_643,8.4,Moderate,48,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_644,8.5,Moderate,36,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_645,8.7,Moderate,12,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_646,9,Moderate,60,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_647,9,Moderate,24,Female,Anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_648,7,Moderate,48,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_649,7,Moderate,24,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_650,7.98,Moderate,48,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_651,11.9,Non-Anemic,36,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_652,8.7,Moderate,60,Male,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_653,12,Non-Anemic,12,Female,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_654,12,Non-Anemic,24,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_655,12.01,Non-Anemic,48,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_656,9,Moderate,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_657,9.2,Moderate,36,Male,Anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_658,9.5,Moderate,8,Male,Anemic,Holy Family Hospital,Berekum,Berekum Municipality,Bono
+Image_659,10.1,Mild,36,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_660,10.2,Mild,36,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_661,12.9,Non-Anemic,60,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_662,10.3,Mild,12,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_663,13.1,Non-Anemic,36,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_664,13.1,Non-Anemic,48,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_665,10.6,Mild,12,Male,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_666,10.6,Mild,12,Female,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_667,10.6,Mild,36,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_668,10.6,Mild,24,Male,Anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_669,10.7,Mild,60,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_670,10.7,Mild,12,Female,Anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_671,12.1,Non-Anemic,48,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_672,12.1,Non-Anemic,24,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_673,12.1,Non-Anemic,48,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_674,12.1,Non-Anemic,24,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_675,9.7,Moderate,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_676,9.7,Moderate,12,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_677,11.9,Non-Anemic,36,Female,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_678,8.6,Moderate,8,Male,Anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_679,12,Non-Anemic,12,Female,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_680,8.7,Moderate,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_681,8.7,Moderate,12,Female,Anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_682,12,Non-Anemic,48,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_683,8.7,Moderate,12,Female,Anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_684,13.9,Non-Anemic,60,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_685,13.9,Non-Anemic,11,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_686,13.9,Non-Anemic,48,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_687,13.9,Non-Anemic,8,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_688,13.9,Non-Anemic,48,Female,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_689,14.6,Non-Anemic,6,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_690,14.6,Non-Anemic,12,Male,Non-anemic,Ejusu Government Hospital,Ejusu,Ejusu Municipality,Ashanti
+Image_691,14.6,Non-Anemic,10,Male,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_692,14.6,Non-Anemic,36,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_693,14.8,Non-Anemic,24,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_694,14.7,Non-Anemic,9,Female,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_695,14.8,Non-Anemic,9,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_696,14.8,Non-Anemic,12,Female,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_697,14.8,Non-Anemic,12,Male,Non-anemic,Kintampo Municipal Hospital,Kintampo,Kintampo Municipality ,Bono-East
+Image_698,14.9,Non-Anemic,12,Male,Non-anemic,Nkawie-Toase Government Hospital,Nkawie-Toase,Atwima Nwabiagya South,Ashanti
+Image_699,14.9,Non-Anemic,48,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_700,15,Non-Anemic,12,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_701,15,Non-Anemic,48,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_702,14.5,Non-Anemic,60,Female,Non-anemic,Sunyani Municipal Hospital,Sunyani,Sunyani Municipality,Bono
+Image_703,14.7,Non-Anemic,10,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_704,14.3,Non-Anemic,12,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_705,14.7,Non-Anemic,7,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_706,12.8,Non-Anemic,48,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_707,11.47,Non-Anemic,48,Female,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
+Image_708,11.6,Non-Anemic,60,Male,Non-anemic,Komfo Anokye Teaching Hospital ,Kumasi ,Kumasi Metropolitan,Ashanti
+Image_709,12.1,Non-Anemic,48,Male,Non-anemic,Bolgatanga Regional Hospital,Bolgatanga,Bolgatanga Municipality,Upper East
+Image_710,11.7,Non-Anemic,24,Male,Non-anemic,Ahmadiyya Muslim Hospital,Tachiman,Techiman Municipality,Bono-East
