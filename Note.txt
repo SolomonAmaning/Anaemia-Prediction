@@ -1,0 +1,3 @@
+710 images (424 are anemic images and 286 are non-anemic images)
+
+Hb Value; <11 g/dL as anemic, while, >=11 g/dL are non-anemic
