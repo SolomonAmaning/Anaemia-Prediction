@@ -1,1 +1,1 @@
- Collaborated with a team to determine award winners and categories using NLP libraries such as NLTK and Spacy through POS-tagging, NER,  and regular expressions. 
+ This project employed the use of neural networks to train on conjuctival images(anemia and non-anemic) to predict anemia
